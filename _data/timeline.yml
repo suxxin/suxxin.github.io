@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Student, University of Waterloo CS
+  from: 2017
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Proudly CS student at University of Waterloo.
+    I first got accepted to the university as a Math major, even though I applied for CS.
+    However, after trying hard, I successfully transferred to CS at the end of the second year.
+    I am currently fourth year CS student at University of Waterloo.
+
+- title: Instructor, Mathnasium, Waterloo
+  from: 2019
+  to: present
+  description:
+    Mathnasium is an academy that teaches math intensively to the students from
+    kindergarten to high school. The main job is to explain concepts of math skills to children,
+    answer questions and to help them solve problems.
