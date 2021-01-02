@@ -4,8 +4,8 @@
 
 - name: Python
   percentage: 85
-  color: success
+  color: info
 
 - name: HTML/CSS
   percentage: 50
-  color: danger
+  color: warning

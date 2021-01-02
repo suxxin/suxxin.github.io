@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi I am **{{ site.author.name }}** :wave:<br>
 
 <div class="row">
 {% include about/timeline.html %}
