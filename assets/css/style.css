@@ -1320,3 +1320,26 @@ body {
   margin-bottom: 15px;
   color: #6c757d;
 }
+
+/* Search box colour and tag box colour */
+.bg-primary {
+  background-color: #96648f !important;
+}
+.border-primary {
+  border-color: #96648f !important;
+}
+.btn-outline-primary {
+  color: #96648f;
+  border-color: #96648f;
+}
+.text-primary {
+  color: #96648f !important;
+}
+.btn-outline-primary:hover {
+  color: white;
+  background-color: #96648f !important;
+  border-color: #96648f;
+}
+#search-input:focus {
+  border-color: #96648f !important;
+}
